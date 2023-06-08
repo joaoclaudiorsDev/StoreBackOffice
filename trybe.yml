@@ -4,7 +4,7 @@ ignore_files:
   - .eslintignore
   - .stylelintrc.json
   - .stylelintignore
+  - setupTests.ts
   - vite.config.ts
   - tsconfig.json
   - tsconfig.node.json
-  - setupTests.ts
